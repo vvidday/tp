@@ -427,10 +427,10 @@ Sample execution of command `undone task 6` with 6 active tasks displayed:
 
 Shows only the active tasks (i.e. tasks which are undone) by default.
 
-- Include the optional `-a` flag to the command to show all tasks, including those that are done.
-- If you have used the [`cd` command](#entering-a-module-cd) to select a module, this will
+* Include the optional `-a` flag to the command to show all tasks, including those that are done.
+* If you have used the [`cd` command](#entering-a-module-cd) to select a module, this will
   only show the tasks under the selected module.
-- Tasks are automatically sorted, in order, according to the following criteria:
+* Tasks are automatically sorted, in order, according to the following criteria:
     1) Done status
     2) Priority level
     3) Deadline
