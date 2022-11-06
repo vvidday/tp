@@ -431,10 +431,10 @@ Shows only the active tasks (i.e. tasks which are undone) by default.
 - If you have used the [`cd` command](#entering-a-module-cd) to select a module, this will
   only show the tasks under the selected module.
 - Tasks are automatically sorted, in order, according to the following criteria:
-  1) Done status
-  2) Priority level
-  3) Deadline
-  4) Alphabetical order of description
+    1) Done status
+    2) Priority level
+    3) Deadline
+    4) Alphabetical order of description
 
 >The sorting criteria is applied in order. For instance, a task that is undone will *always* appear before a task that is done, regardless of priority level, deadline or alphabetical order.
 > 
